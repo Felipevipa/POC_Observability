@@ -1,13 +1,10 @@
 using Serilog;
 
-Log.Logger = new LoggerConfiguration()
-    .WriteTo.Console()
-    .WriteTo.File("logs/app.log", rollingInterval: RollingInterval.Day)
-    .Enrich.FromLogContext()
-    .MinimumLevel.Debug()
-    .CreateLogger();
-
 var builder = WebApplication.CreateBuilder(args);
+
+Log.Logger = new LoggerConfiguration()
+    .ReadFrom.Configuration(builder.Configuration)
+    .CreateLogger();
 
 // Use the Serilog extension method for IHostBuilder
 builder.Host.UseSerilog();
