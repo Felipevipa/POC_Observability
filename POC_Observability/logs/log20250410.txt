@@ -14,3 +14,365 @@
 2025-04-10 09:23:25.582 -05:00 [INF] entered WeatherForecast Controller at 2:23:25 p. m.
 2025-04-10 09:23:25.723 -05:00 [INF] entered WeatherForecast Controller at 2:23:25 p. m.
 2025-04-10 09:23:25.835 -05:00 [INF] entered WeatherForecast Controller at 2:23:25 p. m.
+2025-04-10 14:30:39.176 -05:00 [INF] entered WeatherForecast Controller at 7:30:39 p. m.
+2025-04-10 14:30:41.591 -05:00 [INF] entered WeatherForecast Controller at 7:30:41 p. m.
+2025-04-10 14:30:42.074 -05:00 [INF] entered WeatherForecast Controller at 7:30:42 p. m.
+2025-04-10 14:30:42.716 -05:00 [INF] entered WeatherForecast Controller at 7:30:42 p. m.
+2025-04-10 14:30:43.199 -05:00 [INF] entered WeatherForecast Controller at 7:30:43 p. m.
+2025-04-10 14:30:43.644 -05:00 [INF] entered WeatherForecast Controller at 7:30:43 p. m.
+2025-04-10 14:30:44.057 -05:00 [INF] entered WeatherForecast Controller at 7:30:44 p. m.
+2025-04-10 14:30:44.425 -05:00 [INF] entered WeatherForecast Controller at 7:30:44 p. m.
+2025-04-10 14:30:44.837 -05:00 [INF] entered WeatherForecast Controller at 7:30:44 p. m.
+2025-04-10 14:30:45.344 -05:00 [INF] entered WeatherForecast Controller at 7:30:45 p. m.
+2025-04-10 14:38:32.904 -05:00 [INF] entered WeatherForecast Controller at 7:38:32 p. m.
+2025-04-10 14:40:15.796 -05:00 [INF] entered WeatherForecast Controler at 7:40:15 p. m.
+2025-04-10 14:40:15.800 -05:00 [ERR] Mensaje de error
+2025-04-10 14:45:13.262 -05:00 [INF] entered WeatherForecast Controler at 7:45:13 p. m.
+2025-04-10 14:45:13.274 -05:00 [ERR] Mensaje de error
+2025-04-10 14:45:26.438 -05:00 [INF] entered WeatherForecast Controler at 7:45:26 p. m.
+2025-04-10 14:45:26.443 -05:00 [ERR] Mensaje de error
+2025-04-10 14:45:26.598 -05:00 [INF] entered WeatherForecast Controler at 7:45:26 p. m.
+2025-04-10 14:45:26.615 -05:00 [ERR] Mensaje de error
+2025-04-10 14:45:26.747 -05:00 [INF] entered WeatherForecast Controler at 7:45:26 p. m.
+2025-04-10 14:45:26.753 -05:00 [ERR] Mensaje de error
+2025-04-10 14:45:26.929 -05:00 [INF] entered WeatherForecast Controler at 7:45:26 p. m.
+2025-04-10 14:45:26.935 -05:00 [ERR] Mensaje de error
+2025-04-10 14:45:27.065 -05:00 [INF] entered WeatherForecast Controler at 7:45:27 p. m.
+2025-04-10 14:45:27.069 -05:00 [ERR] Mensaje de error
+2025-04-10 14:45:27.240 -05:00 [INF] entered WeatherForecast Controler at 7:45:27 p. m.
+2025-04-10 14:45:27.246 -05:00 [ERR] Mensaje de error
+2025-04-10 14:45:27.415 -05:00 [INF] entered WeatherForecast Controler at 7:45:27 p. m.
+2025-04-10 14:45:27.423 -05:00 [ERR] Mensaje de error
+2025-04-10 14:45:27.537 -05:00 [INF] entered WeatherForecast Controler at 7:45:27 p. m.
+2025-04-10 14:45:27.541 -05:00 [ERR] Mensaje de error
+2025-04-10 14:45:27.736 -05:00 [INF] entered WeatherForecast Controler at 7:45:27 p. m.
+2025-04-10 14:45:27.742 -05:00 [ERR] Mensaje de error
+2025-04-10 14:45:27.878 -05:00 [INF] entered WeatherForecast Controler at 7:45:27 p. m.
+2025-04-10 14:45:27.884 -05:00 [ERR] Mensaje de error
+2025-04-10 14:45:28.076 -05:00 [INF] entered WeatherForecast Controler at 7:45:28 p. m.
+2025-04-10 14:45:28.081 -05:00 [ERR] Mensaje de error
+2025-04-10 14:45:28.246 -05:00 [INF] entered WeatherForecast Controler at 7:45:28 p. m.
+2025-04-10 14:45:28.252 -05:00 [ERR] Mensaje de error
+2025-04-10 14:45:28.392 -05:00 [INF] entered WeatherForecast Controler at 7:45:28 p. m.
+2025-04-10 14:45:28.397 -05:00 [ERR] Mensaje de error
+2025-04-10 14:45:28.554 -05:00 [INF] entered WeatherForecast Controler at 7:45:28 p. m.
+2025-04-10 14:45:28.558 -05:00 [ERR] Mensaje de error
+2025-04-10 14:45:28.716 -05:00 [INF] entered WeatherForecast Controler at 7:45:28 p. m.
+2025-04-10 14:45:28.719 -05:00 [ERR] Mensaje de error
+2025-04-10 14:45:28.880 -05:00 [INF] entered WeatherForecast Controler at 7:45:28 p. m.
+2025-04-10 14:45:28.885 -05:00 [ERR] Mensaje de error
+2025-04-10 14:45:29.063 -05:00 [INF] entered WeatherForecast Controler at 7:45:29 p. m.
+2025-04-10 14:45:29.069 -05:00 [ERR] Mensaje de error
+2025-04-10 14:45:29.243 -05:00 [INF] entered WeatherForecast Controler at 7:45:29 p. m.
+2025-04-10 14:45:29.248 -05:00 [ERR] Mensaje de error
+2025-04-10 14:45:29.410 -05:00 [INF] entered WeatherForecast Controler at 7:45:29 p. m.
+2025-04-10 14:45:29.415 -05:00 [ERR] Mensaje de error
+2025-04-10 14:45:29.574 -05:00 [INF] entered WeatherForecast Controler at 7:45:29 p. m.
+2025-04-10 14:45:29.582 -05:00 [ERR] Mensaje de error
+2025-04-10 14:45:29.746 -05:00 [INF] entered WeatherForecast Controler at 7:45:29 p. m.
+2025-04-10 14:45:29.749 -05:00 [ERR] Mensaje de error
+2025-04-10 14:45:29.902 -05:00 [INF] entered WeatherForecast Controler at 7:45:29 p. m.
+2025-04-10 14:45:29.908 -05:00 [ERR] Mensaje de error
+2025-04-10 14:45:30.079 -05:00 [INF] entered WeatherForecast Controler at 7:45:30 p. m.
+2025-04-10 14:45:30.086 -05:00 [ERR] Mensaje de error
+2025-04-10 14:45:30.242 -05:00 [INF] entered WeatherForecast Controler at 7:45:30 p. m.
+2025-04-10 14:45:30.244 -05:00 [ERR] Mensaje de error
+2025-04-10 14:45:30.406 -05:00 [INF] entered WeatherForecast Controler at 7:45:30 p. m.
+2025-04-10 14:45:30.414 -05:00 [ERR] Mensaje de error
+2025-04-10 14:45:30.561 -05:00 [INF] entered WeatherForecast Controler at 7:45:30 p. m.
+2025-04-10 14:45:30.564 -05:00 [ERR] Mensaje de error
+2025-04-10 14:45:30.753 -05:00 [INF] entered WeatherForecast Controler at 7:45:30 p. m.
+2025-04-10 14:45:30.756 -05:00 [ERR] Mensaje de error
+2025-04-10 14:45:30.913 -05:00 [INF] entered WeatherForecast Controler at 7:45:30 p. m.
+2025-04-10 14:45:30.917 -05:00 [ERR] Mensaje de error
+2025-04-10 14:45:31.101 -05:00 [INF] entered WeatherForecast Controler at 7:45:31 p. m.
+2025-04-10 14:45:31.106 -05:00 [ERR] Mensaje de error
+2025-04-10 14:45:31.278 -05:00 [INF] entered WeatherForecast Controler at 7:45:31 p. m.
+2025-04-10 14:45:31.284 -05:00 [ERR] Mensaje de error
+2025-04-10 14:45:31.418 -05:00 [INF] entered WeatherForecast Controler at 7:45:31 p. m.
+2025-04-10 14:45:31.422 -05:00 [ERR] Mensaje de error
+2025-04-10 14:47:40.209 -05:00 [INF] entered WeatherForecast Controler at 7:47:40 p. m.
+2025-04-10 14:47:40.224 -05:00 [ERR] Mensaje de error
+2025-04-10 14:47:56.098 -05:00 [INF] entered WeatherForecast Controler at 7:47:56 p. m.
+2025-04-10 14:47:56.104 -05:00 [ERR] Mensaje de error
+2025-04-10 14:47:56.566 -05:00 [INF] entered WeatherForecast Controler at 7:47:56 p. m.
+2025-04-10 14:47:56.570 -05:00 [ERR] Mensaje de error
+2025-04-10 14:47:56.873 -05:00 [INF] entered WeatherForecast Controler at 7:47:56 p. m.
+2025-04-10 14:47:56.891 -05:00 [ERR] Mensaje de error
+2025-04-10 14:47:57.072 -05:00 [INF] entered WeatherForecast Controler at 7:47:57 p. m.
+2025-04-10 14:47:57.097 -05:00 [ERR] Mensaje de error
+2025-04-10 14:47:57.212 -05:00 [INF] entered WeatherForecast Controler at 7:47:57 p. m.
+2025-04-10 14:47:57.245 -05:00 [ERR] Mensaje de error
+2025-04-10 14:47:57.375 -05:00 [INF] entered WeatherForecast Controler at 7:47:57 p. m.
+2025-04-10 14:47:57.380 -05:00 [ERR] Mensaje de error
+2025-04-10 14:47:57.547 -05:00 [INF] entered WeatherForecast Controler at 7:47:57 p. m.
+2025-04-10 14:47:57.551 -05:00 [ERR] Mensaje de error
+2025-04-10 14:47:57.711 -05:00 [INF] entered WeatherForecast Controler at 7:47:57 p. m.
+2025-04-10 14:47:57.721 -05:00 [ERR] Mensaje de error
+2025-04-10 14:57:12.598 -05:00 [INF] entered WeatherForecast Controler at 7:57:12 p. m.
+2025-04-10 14:57:12.623 -05:00 [ERR] Mensaje de error
+2025-04-10 14:57:14.548 -05:00 [INF] entered WeatherForecast Controler at 7:57:14 p. m.
+2025-04-10 14:57:14.552 -05:00 [ERR] Mensaje de error
+2025-04-10 14:57:14.759 -05:00 [INF] entered WeatherForecast Controler at 7:57:14 p. m.
+2025-04-10 14:57:14.767 -05:00 [ERR] Mensaje de error
+2025-04-10 14:57:14.971 -05:00 [INF] entered WeatherForecast Controler at 7:57:14 p. m.
+2025-04-10 14:57:14.986 -05:00 [ERR] Mensaje de error
+2025-04-10 14:57:15.117 -05:00 [INF] entered WeatherForecast Controler at 7:57:15 p. m.
+2025-04-10 14:57:15.121 -05:00 [ERR] Mensaje de error
+2025-04-10 14:57:15.256 -05:00 [INF] entered WeatherForecast Controler at 7:57:15 p. m.
+2025-04-10 14:57:15.261 -05:00 [ERR] Mensaje de error
+2025-04-10 14:57:15.416 -05:00 [INF] entered WeatherForecast Controler at 7:57:15 p. m.
+2025-04-10 14:57:15.420 -05:00 [ERR] Mensaje de error
+2025-04-10 14:57:43.818 -05:00 [INF] entered WeatherForecast Controler at 7:57:43 p. m.
+2025-04-10 14:57:43.826 -05:00 [ERR] Mensaje de error
+2025-04-10 14:57:43.983 -05:00 [INF] entered WeatherForecast Controler at 7:57:43 p. m.
+2025-04-10 14:57:43.986 -05:00 [ERR] Mensaje de error
+2025-04-10 14:57:44.164 -05:00 [INF] entered WeatherForecast Controler at 7:57:44 p. m.
+2025-04-10 14:57:44.170 -05:00 [ERR] Mensaje de error
+2025-04-10 14:57:44.303 -05:00 [INF] entered WeatherForecast Controler at 7:57:44 p. m.
+2025-04-10 14:57:44.306 -05:00 [ERR] Mensaje de error
+2025-04-10 14:57:44.480 -05:00 [INF] entered WeatherForecast Controler at 7:57:44 p. m.
+2025-04-10 14:57:44.486 -05:00 [ERR] Mensaje de error
+2025-04-10 14:57:44.647 -05:00 [INF] entered WeatherForecast Controler at 7:57:44 p. m.
+2025-04-10 14:57:44.652 -05:00 [ERR] Mensaje de error
+2025-04-10 14:57:44.789 -05:00 [INF] entered WeatherForecast Controler at 7:57:44 p. m.
+2025-04-10 14:57:44.793 -05:00 [ERR] Mensaje de error
+2025-04-10 14:57:44.957 -05:00 [INF] entered WeatherForecast Controler at 7:57:44 p. m.
+2025-04-10 14:57:44.972 -05:00 [ERR] Mensaje de error
+2025-04-10 14:57:45.086 -05:00 [INF] entered WeatherForecast Controler at 7:57:45 p. m.
+2025-04-10 14:57:45.091 -05:00 [ERR] Mensaje de error
+2025-04-10 14:57:45.226 -05:00 [INF] entered WeatherForecast Controler at 7:57:45 p. m.
+2025-04-10 14:57:45.233 -05:00 [ERR] Mensaje de error
+2025-04-10 15:04:07.749 -05:00 [INF] entered WeatherForecast Controler at 8:04:07 p. m.
+2025-04-10 15:04:07.815 -05:00 [ERR] Mensaje de error
+2025-04-10 15:10:07.010 -05:00 [INF] entered WeatherForecast Controler at 8:10:07 p. m.
+2025-04-10 15:10:07.062 -05:00 [ERR] Mensaje de error
+2025-04-10 15:14:19.148 -05:00 [INF] entered WeatherForecast Controler at 8:14:19 p. m.
+2025-04-10 15:14:19.267 -05:00 [ERR] Mensaje de error
+2025-04-10 15:14:52.848 -05:00 [INF] entered WeatherForecast Controler at 8:14:52 p. m.
+2025-04-10 15:15:52.879 -05:00 [INF] entered WeatherForecast Controler at 8:15:52 p. m.
+2025-04-10 15:16:25.506 -05:00 [INF] entered WeatherForecast Controler at 8:16:25 p. m.
+2025-04-10 15:16:25.676 -05:00 [INF] entered WeatherForecast Controler at 8:16:25 p. m.
+2025-04-10 15:16:42.430 -05:00 [INF] entered WeatherForecast Controler at 8:16:42 p. m.
+2025-04-10 15:16:50.692 -05:00 [INF] entered WeatherForecast Controler at 8:16:50 p. m.
+2025-04-10 15:16:50.873 -05:00 [INF] entered WeatherForecast Controler at 8:16:50 p. m.
+2025-04-10 15:17:43.629 -05:00 [INF] entered WeatherForecast Controler at 8:17:43 p. m.
+2025-04-10 15:17:43.636 -05:00 [ERR] Mensaje de error
+2025-04-10 15:18:24.850 -05:00 [ERR] Mensaje de error
+2025-04-10 15:22:33.897 -05:00 [ERR] Mensaje de error
+2025-04-10 15:22:48.004 -05:00 [ERR] Mensaje de error
+2025-04-10 15:22:58.873 -05:00 [ERR] Mensaje de error
+2025-04-10 15:22:59.200 -05:00 [ERR] Mensaje de error
+2025-04-10 15:22:59.413 -05:00 [ERR] Mensaje de error
+2025-04-10 15:22:59.569 -05:00 [ERR] Mensaje de error
+2025-04-10 15:22:59.712 -05:00 [ERR] Mensaje de error
+2025-04-10 15:24:41.189 -05:00 [ERR] Mensaje de error
+2025-04-10 15:24:51.347 -05:00 [ERR] Mensaje de error
+2025-04-10 15:26:20.329 -05:00 [ERR] Mensaje de error
+2025-04-10 15:26:32.014 -05:00 [ERR] Mensaje de error
+2025-04-10 15:28:06.556 -05:00 [ERR] Mensaje de error
+2025-04-10 15:28:13.368 -05:00 [ERR] Mensaje de error
+2025-04-10 15:28:17.800 -05:00 [ERR] Mensaje de error
+2025-04-10 15:28:26.188 -05:00 [ERR] Mensaje de error
+2025-04-10 15:38:04.006 -05:00 [ERR] Mensaje de error
+2025-04-10 15:40:24.900 -05:00 [WRN] Warning message
+2025-04-10 15:40:24.936 -05:00 [INF] entered WeatherForecast Controler at 8:40:24 p. m.
+2025-04-10 15:40:24.956 -05:00 [ERR] Mensaje de error
+2025-04-10 15:40:36.523 -05:00 [WRN] Warning message
+2025-04-10 15:40:36.526 -05:00 [INF] entered WeatherForecast Controler at 8:40:36 p. m.
+2025-04-10 15:40:36.529 -05:00 [ERR] Mensaje de error
+2025-04-10 15:43:48.388 -05:00 [WRN] Warning message
+2025-04-10 15:43:48.443 -05:00 [INF] entered WeatherForecast Controler at 8:43:48 p. m.
+2025-04-10 15:43:48.447 -05:00 [ERR] Mensaje de error
+2025-04-10 15:45:17.864 -05:00 [WRN] Warning message
+2025-04-10 15:45:18.004 -05:00 [INF] entered WeatherForecast Controler at 8:45:17 p. m.
+2025-04-10 15:45:18.017 -05:00 [ERR] Mensaje de error
+2025-04-10 15:45:32.711 -05:00 [WRN] Warning message
+2025-04-10 15:45:32.716 -05:00 [INF] entered WeatherForecast Controler at 8:45:32 p. m.
+2025-04-10 15:45:32.722 -05:00 [ERR] Mensaje de error
+2025-04-10 15:46:56.026 -05:00 [WRN] Warning message
+2025-04-10 15:46:56.042 -05:00 [INF] entered WeatherForecast Controler at 8:46:56 p. m.
+2025-04-10 15:46:56.044 -05:00 [ERR] Mensaje de error
+2025-04-10 15:49:49.193 -05:00 [WRN] Warning message
+2025-04-10 15:49:49.291 -05:00 [INF] entered WeatherForecast Controler at 8:49:49 p. m.
+2025-04-10 15:49:49.296 -05:00 [ERR] Mensaje de error
+2025-04-10 15:50:03.137 -05:00 [WRN] Warning message
+2025-04-10 15:50:03.140 -05:00 [INF] entered WeatherForecast Controler at 8:50:03 p. m.
+2025-04-10 15:50:03.144 -05:00 [ERR] Mensaje de error
+2025-04-10 15:51:45.472 -05:00 [WRN] Warning message
+2025-04-10 15:51:45.488 -05:00 [INF] entered WeatherForecast Controler at 8:51:45 p. m.
+2025-04-10 15:51:45.491 -05:00 [ERR] Mensaje de error
+2025-04-10 15:51:54.235 -05:00 [WRN] Warning message
+2025-04-10 15:51:54.239 -05:00 [INF] entered WeatherForecast Controler at 8:51:54 p. m.
+2025-04-10 15:51:54.242 -05:00 [ERR] Mensaje de error
+2025-04-10 15:52:42.943 -05:00 [WRN] Warning message
+2025-04-10 15:52:43.030 -05:00 [INF] entered WeatherForecast Controler at 8:52:43 p. m.
+2025-04-10 15:52:43.039 -05:00 [ERR] Mensaje de error
+2025-04-10 15:53:54.391 -05:00 [INF] entered WeatherForecast Controler at 8:53:54 p. m.
+2025-04-10 15:54:11.676 -05:00 [INF] entered WeatherForecast Controler at 8:54:11 p. m.
+2025-04-10 15:54:27.853 -05:00 [INF] entered WeatherForecast Controler at 8:54:27 p. m.
+2025-04-10 15:54:28.959 -05:00 [INF] entered WeatherForecast Controler at 8:54:28 p. m.
+2025-04-10 15:58:24.342 -05:00 [INF] entered WeatherForecast Controler at 8:58:24 p. m.
+2025-04-10 15:58:34.246 -05:00 [INF] entered WeatherForecast Controler at 8:58:34 p. m.
+2025-04-10 15:58:42.111 -05:00 [INF] entered WeatherForecast Controler at 8:58:42 p. m.
+2025-04-10 15:58:47.816 -05:00 [INF] entered WeatherForecast Controler at 8:58:47 p. m.
+2025-04-10 15:58:47.964 -05:00 [INF] entered WeatherForecast Controler at 8:58:47 p. m.
+2025-04-10 15:58:48.108 -05:00 [INF] entered WeatherForecast Controler at 8:58:48 p. m.
+2025-04-10 15:58:48.265 -05:00 [INF] entered WeatherForecast Controler at 8:58:48 p. m.
+2025-04-10 15:58:48.408 -05:00 [INF] entered WeatherForecast Controler at 8:58:48 p. m.
+2025-04-10 15:58:48.602 -05:00 [INF] entered WeatherForecast Controler at 8:58:48 p. m.
+2025-04-10 15:59:05.470 -05:00 [INF] entered WeatherForecast Controler at 8:59:05 p. m.
+2025-04-10 15:59:47.312 -05:00 [INF] entered WeatherForecast Controler at 8:59:47 p. m.
+2025-04-10 15:59:54.881 -05:00 [INF] entered WeatherForecast Controler at 8:59:54 p. m.
+2025-04-10 15:59:55.012 -05:00 [INF] entered WeatherForecast Controler at 8:59:55 p. m.
+2025-04-10 15:59:55.154 -05:00 [INF] entered WeatherForecast Controler at 8:59:55 p. m.
+2025-04-10 15:59:55.296 -05:00 [INF] entered WeatherForecast Controler at 8:59:55 p. m.
+2025-04-10 15:59:55.461 -05:00 [INF] entered WeatherForecast Controler at 8:59:55 p. m.
+2025-04-10 15:59:55.663 -05:00 [INF] entered WeatherForecast Controler at 8:59:55 p. m.
+2025-04-10 16:01:47.023 -05:00 [INF] entered WeatherForecast Controler at 9:01:47 p. m.
+2025-04-10 16:01:55.652 -05:00 [INF] entered WeatherForecast Controler at 9:01:55 p. m.
+2025-04-10 16:02:00.635 -05:00 [INF] entered WeatherForecast Controler at 9:02:00 p. m.
+2025-04-10 16:02:00.809 -05:00 [INF] entered WeatherForecast Controler at 9:02:00 p. m.
+2025-04-10 16:02:00.961 -05:00 [INF] entered WeatherForecast Controler at 9:02:00 p. m.
+2025-04-10 16:02:01.119 -05:00 [INF] entered WeatherForecast Controler at 9:02:01 p. m.
+2025-04-10 16:02:01.257 -05:00 [INF] entered WeatherForecast Controler at 9:02:01 p. m.
+2025-04-10 16:02:01.414 -05:00 [INF] entered WeatherForecast Controler at 9:02:01 p. m.
+2025-04-10 16:02:01.633 -05:00 [INF] entered WeatherForecast Controler at 9:02:01 p. m.
+2025-04-10 16:05:11.979 -05:00 [INF] entered WeatherForecast Controler at 9:05:11 p. m.
+2025-04-10 16:05:35.036 -05:00 [INF] entered WeatherForecast Controler at 9:05:35 p. m.
+2025-04-10 16:05:35.178 -05:00 [INF] entered WeatherForecast Controler at 9:05:35 p. m.
+2025-04-10 16:05:35.344 -05:00 [INF] entered WeatherForecast Controler at 9:05:35 p. m.
+2025-04-10 16:05:35.482 -05:00 [INF] entered WeatherForecast Controler at 9:05:35 p. m.
+2025-04-10 16:05:35.646 -05:00 [INF] entered WeatherForecast Controler at 9:05:35 p. m.
+2025-04-10 16:05:35.825 -05:00 [INF] entered WeatherForecast Controler at 9:05:35 p. m.
+2025-04-10 16:05:35.948 -05:00 [INF] entered WeatherForecast Controler at 9:05:35 p. m.
+2025-04-10 16:05:36.089 -05:00 [INF] entered WeatherForecast Controler at 9:05:36 p. m.
+2025-04-10 16:05:36.241 -05:00 [INF] entered WeatherForecast Controler at 9:05:36 p. m.
+2025-04-10 16:05:36.412 -05:00 [INF] entered WeatherForecast Controler at 9:05:36 p. m.
+2025-04-10 16:05:36.637 -05:00 [INF] entered WeatherForecast Controler at 9:05:36 p. m.
+2025-04-10 16:05:53.660 -05:00 [INF] entered WeatherForecast Controler at 9:05:53 p. m.
+2025-04-10 16:05:58.514 -05:00 [INF] entered WeatherForecast Controler at 9:05:58 p. m.
+2025-04-10 16:05:58.722 -05:00 [INF] entered WeatherForecast Controler at 9:05:58 p. m.
+2025-04-10 16:06:04.225 -05:00 [INF] entered WeatherForecast Controler at 9:06:04 p. m.
+2025-04-10 16:09:02.852 -05:00 [INF] entered WeatherForecast Controler at 9:09:02 p. m.
+2025-04-10 16:09:12.691 -05:00 [INF] entered WeatherForecast Controler at 9:09:12 p. m.
+2025-04-10 16:09:27.320 -05:00 [INF] entered WeatherForecast Controler at 9:09:27 p. m.
+2025-04-10 16:09:41.243 -05:00 [INF] entered WeatherForecast Controler at 9:09:41 p. m.
+2025-04-10 16:09:47.224 -05:00 [INF] entered WeatherForecast Controler at 9:09:47 p. m.
+2025-04-10 16:09:47.361 -05:00 [INF] entered WeatherForecast Controler at 9:09:47 p. m.
+2025-04-10 16:09:47.507 -05:00 [INF] entered WeatherForecast Controler at 9:09:47 p. m.
+2025-04-10 16:09:47.622 -05:00 [INF] entered WeatherForecast Controler at 9:09:47 p. m.
+2025-04-10 16:09:47.759 -05:00 [INF] entered WeatherForecast Controler at 9:09:47 p. m.
+2025-04-10 16:09:47.922 -05:00 [INF] entered WeatherForecast Controler at 9:09:47 p. m.
+2025-04-10 16:09:48.043 -05:00 [INF] entered WeatherForecast Controler at 9:09:48 p. m.
+2025-04-10 16:09:48.149 -05:00 [INF] entered WeatherForecast Controler at 9:09:48 p. m.
+2025-04-10 16:09:48.312 -05:00 [INF] entered WeatherForecast Controler at 9:09:48 p. m.
+2025-04-10 16:09:48.396 -05:00 [INF] entered WeatherForecast Controler at 9:09:48 p. m.
+2025-04-10 16:09:48.526 -05:00 [INF] entered WeatherForecast Controler at 9:09:48 p. m.
+2025-04-10 16:09:48.658 -05:00 [INF] entered WeatherForecast Controler at 9:09:48 p. m.
+2025-04-10 16:09:48.823 -05:00 [INF] entered WeatherForecast Controler at 9:09:48 p. m.
+2025-04-10 16:09:55.027 -05:00 [INF] entered WeatherForecast Controler at 9:09:55 p. m.
+2025-04-10 16:09:55.182 -05:00 [INF] entered WeatherForecast Controler at 9:09:55 p. m.
+2025-04-10 16:09:55.321 -05:00 [INF] entered WeatherForecast Controler at 9:09:55 p. m.
+2025-04-10 16:09:55.476 -05:00 [INF] entered WeatherForecast Controler at 9:09:55 p. m.
+2025-04-10 16:09:55.667 -05:00 [INF] entered WeatherForecast Controler at 9:09:55 p. m.
+2025-04-10 16:09:55.818 -05:00 [INF] entered WeatherForecast Controler at 9:09:55 p. m.
+2025-04-10 16:09:55.947 -05:00 [INF] entered WeatherForecast Controler at 9:09:55 p. m.
+2025-04-10 16:09:56.117 -05:00 [INF] entered WeatherForecast Controler at 9:09:56 p. m.
+2025-04-10 16:09:56.253 -05:00 [INF] entered WeatherForecast Controler at 9:09:56 p. m.
+2025-04-10 16:09:56.399 -05:00 [INF] entered WeatherForecast Controler at 9:09:56 p. m.
+2025-04-10 16:09:56.539 -05:00 [INF] entered WeatherForecast Controler at 9:09:56 p. m.
+2025-04-10 16:09:56.697 -05:00 [INF] entered WeatherForecast Controler at 9:09:56 p. m.
+2025-04-10 16:09:56.914 -05:00 [INF] entered WeatherForecast Controler at 9:09:56 p. m.
+2025-04-10 16:10:16.607 -05:00 [INF] entered WeatherForecast Controler at 9:10:16 p. m.
+2025-04-10 16:10:16.760 -05:00 [INF] entered WeatherForecast Controler at 9:10:16 p. m.
+2025-04-10 16:10:16.896 -05:00 [INF] entered WeatherForecast Controler at 9:10:16 p. m.
+2025-04-10 16:10:17.018 -05:00 [INF] entered WeatherForecast Controler at 9:10:17 p. m.
+2025-04-10 16:10:17.149 -05:00 [INF] entered WeatherForecast Controler at 9:10:17 p. m.
+2025-04-10 16:10:17.269 -05:00 [INF] entered WeatherForecast Controler at 9:10:17 p. m.
+2025-04-10 16:10:17.462 -05:00 [INF] entered WeatherForecast Controler at 9:10:17 p. m.
+2025-04-10 16:10:29.239 -05:00 [INF] entered WeatherForecast Controler at 9:10:29 p. m.
+2025-04-10 16:10:29.459 -05:00 [INF] entered WeatherForecast Controler at 9:10:29 p. m.
+2025-04-10 16:10:29.879 -05:00 [INF] entered WeatherForecast Controler at 9:10:29 p. m.
+2025-04-10 16:10:30.012 -05:00 [INF] entered WeatherForecast Controler at 9:10:30 p. m.
+2025-04-10 16:10:30.165 -05:00 [INF] entered WeatherForecast Controler at 9:10:30 p. m.
+2025-04-10 16:10:30.321 -05:00 [INF] entered WeatherForecast Controler at 9:10:30 p. m.
+2025-04-10 16:10:30.485 -05:00 [INF] entered WeatherForecast Controler at 9:10:30 p. m.
+2025-04-10 16:10:30.629 -05:00 [INF] entered WeatherForecast Controler at 9:10:30 p. m.
+2025-04-10 16:10:30.810 -05:00 [INF] entered WeatherForecast Controler at 9:10:30 p. m.
+2025-04-10 16:10:34.889 -05:00 [INF] entered WeatherForecast Controler at 9:10:34 p. m.
+2025-04-10 16:10:35.044 -05:00 [INF] entered WeatherForecast Controler at 9:10:35 p. m.
+2025-04-10 16:10:35.200 -05:00 [INF] entered WeatherForecast Controler at 9:10:35 p. m.
+2025-04-10 16:10:35.368 -05:00 [INF] entered WeatherForecast Controler at 9:10:35 p. m.
+2025-04-10 16:10:35.519 -05:00 [INF] entered WeatherForecast Controler at 9:10:35 p. m.
+2025-04-10 16:10:35.667 -05:00 [INF] entered WeatherForecast Controler at 9:10:35 p. m.
+2025-04-10 16:10:35.801 -05:00 [INF] entered WeatherForecast Controler at 9:10:35 p. m.
+2025-04-10 16:10:35.943 -05:00 [INF] entered WeatherForecast Controler at 9:10:35 p. m.
+2025-04-10 16:10:36.110 -05:00 [INF] entered WeatherForecast Controler at 9:10:36 p. m.
+2025-04-10 16:10:36.316 -05:00 [INF] entered WeatherForecast Controler at 9:10:36 p. m.
+2025-04-10 16:10:36.495 -05:00 [INF] entered WeatherForecast Controler at 9:10:36 p. m.
+2025-04-10 16:11:05.194 -05:00 [INF] entered WeatherForecast Controler at 9:11:05 p. m.
+2025-04-10 16:11:12.287 -05:00 [INF] entered WeatherForecast Controler at 9:11:12 p. m.
+2025-04-10 16:11:12.442 -05:00 [INF] entered WeatherForecast Controler at 9:11:12 p. m.
+2025-04-10 16:11:12.590 -05:00 [INF] entered WeatherForecast Controler at 9:11:12 p. m.
+2025-04-10 16:11:12.747 -05:00 [INF] entered WeatherForecast Controler at 9:11:12 p. m.
+2025-04-10 16:11:12.897 -05:00 [INF] entered WeatherForecast Controler at 9:11:12 p. m.
+2025-04-10 16:11:13.087 -05:00 [INF] entered WeatherForecast Controler at 9:11:13 p. m.
+2025-04-10 16:14:33.219 -05:00 [INF] entered WeatherForecast Controler at 9:14:33 p. m.
+2025-04-10 16:18:38.769 -05:00 [INF] entered WeatherForecast Controler at 9:18:38 p. m.
+2025-04-10 16:19:07.396 -05:00 [INF] entered WeatherForecast Controler at 9:19:07 p. m.
+2025-04-10 16:20:00.946 -05:00 [INF] entered WeatherForecast Controler at 9:20:00 p. m.
+2025-04-10 16:20:15.616 -05:00 [INF] entered WeatherForecast Controler at 9:20:15 p. m.
+2025-04-10 16:20:22.053 -05:00 [INF] entered WeatherForecast Controler at 9:20:22 p. m.
+2025-04-10 16:20:25.912 -05:00 [INF] entered WeatherForecast Controler at 9:20:25 p. m.
+2025-04-10 16:20:31.236 -05:00 [INF] entered WeatherForecast Controler at 9:20:31 p. m.
+2025-04-10 16:20:53.530 -05:00 [INF] entered WeatherForecast Controler at 9:20:53 p. m.
+2025-04-10 16:21:58.800 -05:00 [INF] entered WeatherForecast Controler at 9:21:58 p. m.
+2025-04-10 16:22:07.306 -05:00 [INF] entered WeatherForecast Controler at 9:22:07 p. m.
+2025-04-10 16:22:42.554 -05:00 [INF] entered WeatherForecast Controler at 9:22:42 p. m.
+2025-04-10 16:25:04.353 -05:00 [INF] entered WeatherForecast Controler at 9:25:04 p. m.
+2025-04-10 16:25:08.460 -05:00 [INF] entered WeatherForecast Controler at 9:25:08 p. m.
+2025-04-10 16:25:08.864 -05:00 [INF] entered WeatherForecast Controler at 9:25:08 p. m.
+2025-04-10 16:33:39.718 -05:00 [INF] entered WeatherForecast Controler at 9:33:39 p. m.
+2025-04-10 16:33:46.969 -05:00 [INF] entered WeatherForecast Controler at 9:33:46 p. m.
+2025-04-10 16:33:58.597 -05:00 [INF] entered WeatherForecast Controler at 9:33:58 p. m.
+2025-04-10 16:34:02.229 -05:00 [INF] entered WeatherForecast Controler at 9:34:02 p. m.
+2025-04-10 16:34:29.275 -05:00 [INF] entered WeatherForecast Controler at 9:34:29 p. m.
+2025-04-10 16:34:29.427 -05:00 [INF] entered WeatherForecast Controler at 9:34:29 p. m.
+2025-04-10 16:34:29.578 -05:00 [INF] entered WeatherForecast Controler at 9:34:29 p. m.
+2025-04-10 16:34:29.787 -05:00 [INF] entered WeatherForecast Controler at 9:34:29 p. m.
+2025-04-10 16:35:20.767 -05:00 [INF] entered WeatherForecast Controler at 9:35:20 p. m.
+2025-04-10 16:36:08.374 -05:00 [INF] entered WeatherForecast Controler at 9:36:08 p. m.
+2025-04-10 16:36:08.520 -05:00 [INF] entered WeatherForecast Controler at 9:36:08 p. m.
+2025-04-10 16:36:08.660 -05:00 [INF] entered WeatherForecast Controler at 9:36:08 p. m.
+2025-04-10 16:36:08.813 -05:00 [INF] entered WeatherForecast Controler at 9:36:08 p. m.
+2025-04-10 16:36:08.940 -05:00 [INF] entered WeatherForecast Controler at 9:36:08 p. m.
+2025-04-10 16:36:09.081 -05:00 [INF] entered WeatherForecast Controler at 9:36:09 p. m.
+2025-04-10 16:36:09.218 -05:00 [INF] entered WeatherForecast Controler at 9:36:09 p. m.
+2025-04-10 16:36:09.406 -05:00 [INF] entered WeatherForecast Controler at 9:36:09 p. m.
+2025-04-10 16:36:17.977 -05:00 [INF] entered WeatherForecast Controler at 9:36:17 p. m.
+2025-04-10 16:39:53.188 -05:00 [INF] entered WeatherForecast Controler at 9:39:53 p. m.
+2025-04-10 16:40:12.824 -05:00 [INF] entered WeatherForecast Controler at 9:40:12 p. m.
+2025-04-10 16:40:19.674 -05:00 [INF] entered WeatherForecast Controler at 9:40:19 p. m.
+2025-04-10 16:40:20.502 -05:00 [INF] entered WeatherForecast Controler at 9:40:20 p. m.
+2025-04-10 16:40:21.233 -05:00 [INF] entered WeatherForecast Controler at 9:40:21 p. m.
+2025-04-10 16:40:42.355 -05:00 [INF] entered WeatherForecast Controler at 9:40:42 p. m.
+2025-04-10 16:42:16.775 -05:00 [INF] entered WeatherForecast Controler at 9:42:16 p. m.
+2025-04-10 16:42:41.689 -05:00 [INF] entered WeatherForecast Controler at 9:42:41 p. m.
+2025-04-10 16:43:01.137 -05:00 [INF] entered WeatherForecast Controler at 9:43:01 p. m.
+2025-04-10 16:43:22.909 -05:00 [INF] entered WeatherForecast Controler at 9:43:22 p. m.
+2025-04-10 16:43:23.100 -05:00 [INF] entered WeatherForecast Controler at 9:43:23 p. m.
+2025-04-10 16:43:23.265 -05:00 [INF] entered WeatherForecast Controler at 9:43:23 p. m.
+2025-04-10 16:43:23.426 -05:00 [INF] entered WeatherForecast Controler at 9:43:23 p. m.
+2025-04-10 16:43:23.590 -05:00 [INF] entered WeatherForecast Controler at 9:43:23 p. m.
+2025-04-10 16:43:23.762 -05:00 [INF] entered WeatherForecast Controler at 9:43:23 p. m.
+2025-04-10 16:43:23.916 -05:00 [INF] entered WeatherForecast Controler at 9:43:23 p. m.
+2025-04-10 16:43:24.064 -05:00 [INF] entered WeatherForecast Controler at 9:43:24 p. m.
+2025-04-10 16:43:24.236 -05:00 [INF] entered WeatherForecast Controler at 9:43:24 p. m.
+2025-04-10 16:43:24.449 -05:00 [INF] entered WeatherForecast Controler at 9:43:24 p. m.
+2025-04-10 16:43:48.093 -05:00 [INF] entered WeatherForecast Controler at 9:43:48 p. m.
+2025-04-10 16:50:42.204 -05:00 [INF] entered WeatherForecast Controler at 9:50:42 p. m.
+2025-04-10 16:53:46.450 -05:00 [INF] entered WeatherForecast Controler at 9:53:46 p. m.
+2025-04-10 16:55:38.046 -05:00 [INF] entered WeatherForecast Controler at 9:55:38 p. m.
+2025-04-10 16:56:52.229 -05:00 [INF] entered WeatherForecast Controler at 9:56:52 p. m.
+2025-04-10 16:57:34.260 -05:00 [INF] entered WeatherForecast Controler at 9:57:34 p. m.

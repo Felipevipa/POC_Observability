@@ -21,7 +21,9 @@ namespace POC_Observability.Controllers
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> Get()
         {
-            _logger.LogInformation("entered WeatherForecast Controller at {Time}", DateTime.UtcNow.ToLongTimeString());
+            _logger.LogWarning("Warning message");
+            _logger.LogInformation("entered WeatherForecast Controler at {Time}", DateTime.UtcNow.ToLongTimeString());
+            _logger.LogError("Mensaje de error");
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
 

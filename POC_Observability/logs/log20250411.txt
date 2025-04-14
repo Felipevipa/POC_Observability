@@ -1,0 +1,28 @@
+2025-04-11 13:39:43.546 -05:00 [INF] entered WeatherForecast Controler at 6:39:43 p. m.
+2025-04-11 13:39:48.075 -05:00 [INF] entered WeatherForecast Controler at 6:39:48 p. m.
+2025-04-11 13:46:27.137 -05:00 [INF] entered WeatherForecast Controler at 6:46:27 p. m.
+2025-04-11 13:46:27.525 -05:00 [INF] entered WeatherForecast Controler at 6:46:27 p. m.
+2025-04-11 13:46:27.704 -05:00 [INF] entered WeatherForecast Controler at 6:46:27 p. m.
+2025-04-11 13:46:27.851 -05:00 [INF] entered WeatherForecast Controler at 6:46:27 p. m.
+2025-04-11 13:46:28.014 -05:00 [INF] entered WeatherForecast Controler at 6:46:28 p. m.
+2025-04-11 13:46:28.185 -05:00 [INF] entered WeatherForecast Controler at 6:46:28 p. m.
+2025-04-11 13:51:40.913 -05:00 [INF] entered WeatherForecast Controler at 6:51:40 p. m.
+2025-04-11 13:51:41.069 -05:00 [INF] entered WeatherForecast Controler at 6:51:41 p. m.
+2025-04-11 13:51:41.197 -05:00 [INF] entered WeatherForecast Controler at 6:51:41 p. m.
+2025-04-11 13:51:41.354 -05:00 [INF] entered WeatherForecast Controler at 6:51:41 p. m.
+2025-04-11 13:51:41.647 -05:00 [INF] entered WeatherForecast Controler at 6:51:41 p. m.
+2025-04-11 13:51:41.785 -05:00 [INF] entered WeatherForecast Controler at 6:51:41 p. m.
+2025-04-11 13:51:41.944 -05:00 [INF] entered WeatherForecast Controler at 6:51:41 p. m.
+2025-04-11 13:51:42.105 -05:00 [INF] entered WeatherForecast Controler at 6:51:42 p. m.
+2025-04-11 13:52:35.006 -05:00 [WRN] Warning message
+2025-04-11 13:52:35.018 -05:00 [INF] entered WeatherForecast Controler at 6:52:35 p. m.
+2025-04-11 13:52:35.036 -05:00 [ERR] Mensaje de error
+2025-04-11 13:52:35.870 -05:00 [WRN] Warning message
+2025-04-11 13:52:35.878 -05:00 [INF] entered WeatherForecast Controler at 6:52:35 p. m.
+2025-04-11 13:52:35.886 -05:00 [ERR] Mensaje de error
+2025-04-11 13:52:36.039 -05:00 [WRN] Warning message
+2025-04-11 13:52:36.054 -05:00 [INF] entered WeatherForecast Controler at 6:52:36 p. m.
+2025-04-11 13:52:36.063 -05:00 [ERR] Mensaje de error
+2025-04-11 13:52:36.193 -05:00 [WRN] Warning message
+2025-04-11 13:52:36.209 -05:00 [INF] entered WeatherForecast Controler at 6:52:36 p. m.
+2025-04-11 13:52:36.220 -05:00 [ERR] Mensaje de error
